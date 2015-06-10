@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* dokumen tyas */
+
+* {
+	margin:10;
+	padding:10;
+	margin:5 auto;
+	font-family:Constantia, Constantia, Constantia;
+	color: green;
+}
+p {
+	margin-top:5px;
+}
+span {
+	color: black;
+}
+#preinput {
+	width:650px;
+	float:left;
+}
+.display {
+	width:60%;
+	border:0px;
+	padding:0%;
+	margin-bottom:0px;
+	margin-top:0px;
+}
+.delete {
+	float:right;
+	color:green;
+	font-weight:bold;
+}
+.edit {
+	float:right;
+	color:green;
+	font-weight:bold;
+}
+#inputid {
+	width:380px;
+	padding:10px;
+}
+#inputid1 {
+	width:380px;
+	padding:10px;
+}
